@@ -39,4 +39,4 @@ This repository is intended for amateur radio astronomy and experimentation. Sev
 
 ## License
 
-This project is shared for educational and experimental use. Please review the repository contents and check any applicable third-party licensing information before manufacturing or distributing physical parts.
+This project is shared for educational and experimental use. Please review license attached to repository.
